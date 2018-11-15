@@ -3,7 +3,7 @@ package com.nxs.singletonpattern;
 /**
  * @author 聂孝爽
  * @date 2018/11/6 14:55
- * @description
+ * @description  单例模式
  */
 public class SingletonPatternDemo {
 

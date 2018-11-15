@@ -3,7 +3,7 @@ package com.nxs.factorypattern;
 /**
  * @author 聂孝爽
  * @date 2018/11/6 14:12
- * @description
+ * @description  工厂模式
  */
 public class FactoryPatternDemo {
 
